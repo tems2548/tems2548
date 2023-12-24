@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Web and Application dev**
 
 - 👨‍💻 You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
-###
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tems2548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
@@ -17,11 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tems2548&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h2 align="left">Languages and Tools:</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,15 +50,13 @@
 </div>
 
 
-###
 
 <h2 align="left">Connect with me:</h2>
 
-###
 
 <br clear="both">
 <img  align="right" height="190vh" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
-###
+
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank">
@@ -74,16 +72,15 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tems2548/count.svg?"  />
 </div>
 
-###
 
