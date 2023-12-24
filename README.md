@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
+<img align="right" height="20vh" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
 
 ###
 
@@ -88,3 +88,4 @@
 </div>
 
 ###
+
