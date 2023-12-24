@@ -57,11 +57,12 @@
 ###
 
 <br clear="both">
-<img id="image-" align="right" height="190vh" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
-image-{
-  padding: 20vh;
-}
-
+<img  id ="ku"align="right" height="190vh" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
+<style>
+  #ku{
+    padding: 20vh;
+    }
+</style>
 ###
 
 <div align="left">
