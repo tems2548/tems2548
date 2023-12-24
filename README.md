@@ -42,13 +42,13 @@
 
 ###
 
-<h2 align="right">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
+<img align="right" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
 
 ###
 
