@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img align="right" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
+<img align="center" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
 
 ###
 
@@ -70,7 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="Snake animation" />
 
 ###
 
