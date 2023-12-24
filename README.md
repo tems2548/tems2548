@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img align="center" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
+<img align="right" height="" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
 
 ###
 
