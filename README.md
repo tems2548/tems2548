@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> </p>
 
-- 🔭 I’m currently working on **IoT project**
+- I’m currently working on **IoT project**
 
-- 🌱 I’m currently learning **Web and Application dev**
+- I’m currently learning **KMILT IOTE**
 
-- 👨‍💻 You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
+- You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
 
 
 <div align="left">
