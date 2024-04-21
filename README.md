@@ -6,7 +6,7 @@
 
 - I’m currently working on **IoT project**
 
-- I’m currently learning **KMILT IOTE**
+- I’m learning at **King Mongkut's Institute of Technology Ladkrabang {IOTE}**
 
 - You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
 
