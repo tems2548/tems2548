@@ -80,7 +80,6 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tems2548/count.svg?"  />
 </div>
 
 
