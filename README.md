@@ -1,4 +1,4 @@
-<h1 align="left">Hi! My name is Temz : IoT system developer</h1>
+<h1 align="left">Hi! My name is Ungsuchaval Samitchart or you can call me temz!</h1>
 <h2 align="center">A IoT system developer and IoT Engineering student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> </p>
