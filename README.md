@@ -1,12 +1,11 @@
 <h1 align="left">Hi! My name is Temz : IoT system developer</h1>
-<h2 align="center">Hi 👋, I'm Ungsuchaval Samitchart</h1>
-<h3 align="center">A IoT system developer</h3>
+<h2 align="center">A IoT system developer and IoT Engineering student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> </p>
 
 - I’m currently working on **IoT project**
 
-- I’m learning at **King Mongkut's Institute of Technology Ladkrabang {IOTE}**
+- I’m Studing at **King Mongkut's Institute of Technology Ladkrabang {IOTE}**
 
 - You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
 
