@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ungsuchaval (temz)!</h1>
 <h3 align="center">IoT System Developer | IoT Engineering Student @ KMITL</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
@@ -16,9 +16,11 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tems2548&theme=dracula&no-frame=false&margin-w=15&margin-h=15" alt="tems2548 trophies" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tems2548&theme=dracula&no-frame=false&margin-w=15&margin-h=15" alt="tems2548 trophies" />
+  </a>
+</div>
 
 ---
 
@@ -34,14 +36,16 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tems2548&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tems2548&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tems2548&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tems2548&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=tems2548&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
@@ -58,6 +62,6 @@
   <img src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif" height="150" />
 </p>
 
-<p align="center"> 
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> 
-</p>
+</div>
