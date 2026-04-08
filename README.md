@@ -1,84 +1,63 @@
-<h1 align="left">Hi! My name is Ungsuchaval Samitchart or you can call me temz!</h1>
-<h2 align="center">A IoT system developer and IoT Engineering student</h2>
+<h1 align="center">Hi 👋, I'm Ungsuchaval (temz)!</h1>
+<h3 align="center">IoT System Developer | IoT Engineering Student @ KMITL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="Snake animation" />
+</p>
 
-- I’m currently working on **IoT project**
+---
 
-- I’m Studing at **King Mongkut's Institute of Technology Ladkrabang {IOTE}**
+### 🚀 About Me
+- 🔭 I’m currently working on advanced **IoT Systems** and **Embedded Solutions**.
+- 🎓 Studying **IoT Engineering** at King Mongkut's Institute of Technology Ladkrabang (IOTE).
+- 🌐 Explore my portfolio: [tems2548.github.io](https://tems2548.github.io)
+- ⚡ Fun fact: I love building things that bridge the gap between hardware and software.
 
-- You can know me more at [https://tems2548.github.io](https://tems2548.github.io)
+---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tems2548&theme=dracula&no-frame=false&margin-w=15&margin-h=15" alt="tems2548 trophies" /></a>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tems2548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=tems2548&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tems2548&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
+### 🛠️ Languages & Tools
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) |
+| **Web Tech** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) |
 
-<h2 align="left">Languages and Tools:</h2>
+---
 
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tems2548&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tems2548&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tems2548&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-</div>
+---
 
+### 📫 Connect with me
+<p align="left">
+  <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ZmeT" />
+  <a href="mailto:tems2548@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<p align="right">
+  <img src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif" height="150" />
+</p>
 
-<h2 align="left">Connect with me:</h2>
-
-
-<br clear="both">
-<img  align="right" height="190vh" src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif"  />
-
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=temz_xcvbnm&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=ZmeT&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=tems2548@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-
-
-<br clear="both">
-
-
-
-
-<div align="center">
-</div>
-
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> 
+</p>
