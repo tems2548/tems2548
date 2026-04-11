@@ -37,8 +37,8 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tems2548&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tems2548&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tems2548&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=tems2548&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
 </div>
 
 <br/>
@@ -66,14 +66,3 @@
   <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tems2548/tems2548/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tems2548/tems2548/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tems2548/tems2548/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="Snake animation" />
-
-###
