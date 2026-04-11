@@ -17,9 +17,24 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on advanced **IoT Systems** and **Embedded Solutions**.
+- 🌱 I’m currently learning **LoRaWAN, FreeRTOS, and Industrial IoT (IIoT)**.
 - 🎓 Studying **IoT Engineering** at King Mongkut's Institute of Technology Ladkrabang (IOTE).
 - 🌐 Explore my portfolio: [tems2548.github.io](https://tems2548.github.io)
 - ⚡ Fun fact: I love building things that bridge the gap between hardware and software.
+
+---
+
+### ⚙️ IoT Ecosystem
+```mermaid
+graph LR
+  A[Sensors & Actuators] --> B[Edge Device: ESP32/STM32]
+  B -- MQTT/LoRa --> C[IoT Gateway: Raspberry Pi]
+  C -- API/Webhooks --> D[(Cloud & Databases)]
+  D -- Real-time Data --> E[Dashboard & Mobile Apps]
+  style B fill:#36BCF7,stroke:#333,stroke-width:2px
+  style C fill:#C51A4A,stroke:#333,stroke-width:2px
+  style E fill:#02569B,stroke:#333,stroke-width:2px
+```
 
 ---
 
