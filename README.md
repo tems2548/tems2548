@@ -24,9 +24,19 @@
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,js,dart,flutter,sass,firebase,html,css,android,raspberrypi&perline=6" alt="Skill Icons" />
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>💻 Software</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,dart,flutter,sass,firebase,html,css,android&perline=3" alt="Software Icons" />
+    </td>
+    <td align="center" width="50%">
+      <strong>🔌 Hardware</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&perline=2" alt="Hardware Icons" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,12 +53,27 @@
 ---
 
 ### 📫 Connect with me
-<p align="center">
-  <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:tems2548@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:tems2548@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord: ZmeT" height="30" />
+  <strong>Discord: ZmeT</strong>
+</div>
 
 <p align="right">
   <img src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif" height="120" />
