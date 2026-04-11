@@ -1,7 +1,14 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+###
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> 
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ungsuchaval+(temz)!;IoT+System+Developer;IoT+Engineering+Student+@+KMITL" alt="Typing SVG" />
 </h1>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/tems2548/tems2548/output/snake.svg" alt="GitHub Contribution Snake" />
 </div>
@@ -53,33 +60,28 @@
 ---
 
 ### 📫 Connect with me
+
 <div align="center">
+  <a href="mailto:tems2548@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=tems2548&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
   <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/static/v1?label=Facebook&message=Ungsuchaval&color=1877F2&logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=@temz_xcvbnm&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/static/v1?label=YouTube&message=Channel&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>
-  <a href="mailto:tems2548@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord: ZmeT" height="30" />
-  <strong>Discord: ZmeT</strong>
+  <img src="https://img.shields.io/static/v1?label=Discord&message=ZmeT&color=7289DA&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </div>
 
 <p align="right">
   <img src="https://media.tenor.com/IYfeN7W7mDcAAAAM/kurumi.gif" height="120" />
 </p>
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tems2548&label=Profile%20views&color=0e75b6&style=flat" alt="tems2548" /> 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
