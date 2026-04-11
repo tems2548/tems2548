@@ -76,15 +76,15 @@ graph LR
 
 ### 📫 Connect with me
 
-<div align="center">
+<div align="left">
   <a href="mailto:tems2548@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Gmail&message=tems2548&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100009823932889" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Facebook&message=Ungsuchaval&color=1877F2&logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/temz_xcvbnm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Instagram&message=@temz_xcvbnm&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  <a href="https://www.instagram.com/_x.temz.x_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=@_x.temz.x_&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UCcnun2qeqf_73fhK4W2F-ZQ" target="_blank">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Channel&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
