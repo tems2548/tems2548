@@ -1,8 +1,8 @@
-name: Generate snake animation
+name: Generate profile animations
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -22,10 +22,20 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
+      - name: generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: push snake.svg to the output branch
+      - name: collect 3D graph into dist
+        run: cp profile-3d-contrib/profile-night-rainbow.svg dist/
+
+      - name: push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
